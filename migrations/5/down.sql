@@ -1,0 +1,1 @@
+ALTER TABLE street_photos DROP COLUMN tags;
