@@ -3,3 +3,10 @@ node_modules/
 .wrangler/
 .dev.vars
 worker-configuration.d.ts
+.env
+.env.local
+.env.production
+.env.development
+*.log
+.DS_Store
+uploads/
